@@ -194,11 +194,12 @@ HealthSync-EventDriven-Azure
 
 ---
 
-## 👨‍💻 Author
+## 📫 Contact
 
-**Vikash Gupta**
-
-Microsoft Azure Developer | ASP.NET Core Developer | Cloud Enthusiast
+**Vikash Kumar Gupta**  
+📍 Bokaro Steel City, Jharkhand  
+✉️ [vikashkumargupta907@gmail.com](mailto:vikashkumargupta907@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/vikash1995) | [GitHub](https://github.com/KrVikashGupta)
 
 ---
 
