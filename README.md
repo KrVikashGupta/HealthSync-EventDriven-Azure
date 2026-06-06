@@ -12,11 +12,8 @@ The project demonstrates a modern **event-driven architecture** using Azure serv
 <p align="center">
   <img src="HOSPITAL/HOSPITAL-main/HealthSync-Architecture.png" alt="HealthSync Architecture" width="1000">
 </p>
-
 The system follows an event-driven cloud architecture using Azure API Management, ASP.NET Core Web API, Azure Service Bus, Logic Apps, Azure Functions, Blob Storage, SQL Database, and Key Vault.
 ## 🏗️ Solution Architecture
-
-![HealthSync Architecture](HOSPITAL/HOSPITAL-main/HealthSync-Architecture.png)
 
 ## 🚀 Features
 
