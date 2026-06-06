@@ -65,28 +65,6 @@ The system follows an event-driven cloud architecture using Azure API Management
 
 ---
 
-## 🏗️ Architecture Flow
-
-### Appointment Booking Workflow
-
-1. Patient books an appointment.
-2. Request passes through Azure API Management.
-3. ASP.NET Core Web API processes the request.
-4. Appointment data is saved in Azure SQL Database.
-5. A message is sent to Azure Service Bus Queue.
-6. Azure Logic App detects the message.
-7. Logic App sends a confirmation email to the patient.
-
-### Medical Report Upload Workflow
-
-1. Doctor uploads a medical report PDF.
-2. PDF is stored in Azure Blob Storage.
-3. Azure Blob Trigger Function automatically executes.
-4. Function processes the uploaded file.
-5. Processing information is logged automatically.
-
----
-
 ## 🔐 Security Features
 
 * Azure API Management policies
