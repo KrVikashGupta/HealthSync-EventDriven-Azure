@@ -1,0 +1,7 @@
+{
+    "IsEncrypted": false, 
+    "Values": {
+        // Key Vault URL — Function App fetches StorageConnection from here
+        "keyVaultUrl": "https://vikashkey1.vault.azure.net/"
+    }
+}
