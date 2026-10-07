@@ -5,7 +5,7 @@
 HealthSync is a cloud-native Hospital Management System built using **ASP.NET Core Web API** and **Microsoft Azure**. The application enables patient registration, doctor management, appointment booking, medical record management, automated email notifications, and secure medical report storage.
 
 The project demonstrates a modern **event-driven architecture** using Azure services such as API Management, Service Bus, Logic Apps, Azure Functions, Blob Storage, SQL Database, and Key Vault.
-
+ 
 --- 
 ## 🏗️ Solution Architecture
 
